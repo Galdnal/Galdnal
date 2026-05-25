@@ -15,11 +15,11 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software.
 ## 🛠️ Tecnologias e Ferramentas
 Linguagens:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python)
 
 Ferramentas:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vuejs,vscode,pycharm,canva,github,eslint,nextjs,react,discordjs,obsidian)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vuejs,vscode,pycharm,canva,github,eslint,nextjs,react,discordjs,obsidian,git)
 
 Navegadores e Sistemas Operacionais:
 
