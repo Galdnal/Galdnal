@@ -1,3 +1,9 @@
+<header>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ 
+</header>
+<body>
+ 
 # Olá! Bem-vindo ao meu perfil, Me Chamo Richard Tramontin Pereira 
 Sou um estudante apaixonado por tecnologia e desenvolvimento de software.
 
@@ -27,12 +33,25 @@ Comunicação e compartilhamento:
 Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais que demonstram minhas habilidades em desenvolvimento.
 
 ## 📫 Entre em Contato
-LinkedIn: [Richard Tramontin Pereira](www.linkedin.com/in/richard-tramontin-11b758411)
-
-Instagram: [Gal](https://www.instagram.com/galkkj/)
+<div>
+<a href="https://www.linkedin.com/in/richard-tramontin-11b758411">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    height="60"
+  >
+</a>
+<a href="https://www.instagram.com/galkkj/">
+  <img 
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    height="60"
+  >
+</a>
+</div>
 
 ⭐️ Sinta-se livre para explorar meus repositórios e me contactar com oportunidades de colaboração!
 
 [![](https://raw.githubusercontent.com/Galdnal/Gal/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  [![](https://raw.githubusercontent.com/Galdnal/Gal/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Galdnal/Gal/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</body>
