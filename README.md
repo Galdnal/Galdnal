@@ -19,7 +19,7 @@ Linguagens:
 
 Ferramentas:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vuejs,vscode,pycharm,canva,github,eslint,nextjs,react,discordjs,obsidian,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,canva,github,eslint,discordjs,git)
 
 Navegadores e Sistemas Operacionais:
 
